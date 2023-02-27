@@ -3,5 +3,6 @@ Kart racer C# scripts (drifting, jumping)
 
 Gameplay example (chaos....):
 
-https://user-images.githubusercontent.com/37000065/221568044-50f0eca1-6d54-445e-abe1-346a5ec48abb.mp4
+https://user-images.githubusercontent.com/37000065/221568919-e75ce3d3-b677-4611-ae2e-5da600efc75a.mp4
+
 
